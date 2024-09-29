@@ -70,3 +70,14 @@ V1.3	✓ natural outputs
 ✗ have a slight change on identity
 V1.2	✓ sharper output
 ✓ with beauty makeup	✗ some outputs are unnatural
+
+📜 License and Acknowledgement
+GFPGAN is released under Apache License Version 2.0.
+
+BibTeX
+@InProceedings{wang2021gfpgan,
+    author = {Xintao Wang and Yu Li and Honglun Zhang and Ying Shan},
+    title = {Towards Real-World Blind Face Restoration with Generative Facial Prior},
+    booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year = {2021}
+}
